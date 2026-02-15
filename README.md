@@ -1,2 +1,3 @@
 # Netflix Movies and TV Shows Data Analysis using SQL
-1[Netflix logo]("C:\Users\Disha shetty\Downloads\logo.png")
+![Netflix logo](https://github.com/najirh/netflix_sql_project/blob/main/logo.png)
+
